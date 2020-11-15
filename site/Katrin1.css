@@ -1,5 +1,10 @@
 
-
+h1{
+    text-align: center;
+}
+section{
+    text-align: right;
+}
 p {
     border-style: solid;
     border-color: black;
